@@ -1,0 +1,2 @@
+# AWS_CloudFormation_Number_Vip
+使用node.js在AWS上佈屬判斷專員及是否為VIP客戶
